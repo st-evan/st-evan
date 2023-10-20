@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @st-evan
-- 👀 I’m interested in building virtual assistants
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI codes
+- 👋 Hello, I am @st-evan
+- 👀 I do it because I can and ChatGPT suggests my project.
+- 🌱 My language stack include Ansi_C and Python primarily.
+- 💞️ HTML, CSS, Pure JS and Kotlin would follow soonest.
 - 📫 Reach me at snt.evn@gmail.com
 
 <!---
